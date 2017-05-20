@@ -20,6 +20,7 @@ public class MyData {
 
         String [] resultStrings;
 
+
         return detaiStrings;
     }
 } // Main Class นี่คือคลาสหลัก
